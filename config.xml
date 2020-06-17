@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "app.harta.shop"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>app.tdharta.ru</name>
+    <name>HARTA - Садовая мебель</name>
 
     <description>
-        awdawdadawdawdawdawdawdwadawdawdwa
+        Интернет-магазин садовой мебели
     </description>
 
     <author>Tadapp</author>
